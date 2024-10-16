@@ -1,2 +1,6 @@
 hi how are you
+<<<<<<< HEAD
 iam not fine
+=======
+i am not fine
+>>>>>>> auto-text
